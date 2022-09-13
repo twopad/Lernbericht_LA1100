@@ -8,18 +8,17 @@ In diesem Projekt ging es darum ein Spiel zu programmieren welches eine zufälli
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt if/while Schleifen zu programmieren, um Vorgänge, so viel Mal wie ich möchte, wiederholen zu lassen.
+Ich habe gelernt **if**/**while**  zu programmieren, um Vorgänge, so viel Mal wie ich möchte, wiederholen zu lassen.
 
 ## Beschreibung
 
-Die while Schleife wird am Anfang immer definiert, mit einem Wert der sich erst ändert, sobald die while Schleife beendet werden soll. Damit kann man Vorgänge so oft wiederholen bis sie nicht mehr benötigt werden.
+Die **while** Schleife wird am Anfang immer definiert, mit einem Wert der sich erst ändert, sobald die **while** Schleife beendet werden soll. Damit kann man Vorgänge so oft wiederholen bis sie nicht mehr benötigt werden. Mit **if** kann man Vorgänge bestimmen, wenn das gefragte zutrifft. Wenn es nicht zu trifft wird mit **else** der Vorgang bestummen der gemacht werden soll wenn es nicht zutrifft.
 
 ![grafik](https://user-images.githubusercontent.com/110892623/189845901-d67b7de2-2b53-49cb-9975-f843de7d8680.png)
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![gif](https://user-images.githubusercontent.com/110892623/189851354-c36aa332-a1f8-4d40-b808-145ac9025fa0.png)
+
+
 
 ## Verifikation
 
