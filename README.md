@@ -16,18 +16,20 @@ Die **while** Schleife wird am Anfang immer definiert, mit einem Wert der sich e
 
 ![grafik](https://user-images.githubusercontent.com/110892623/189845901-d67b7de2-2b53-49cb-9975-f843de7d8680.png)
 
-![gif](https://user-images.githubusercontent.com/110892623/189851354-c36aa332-a1f8-4d40-b808-145ac9025fa0.png)
+Die vom Program generierte Zufallszahl wird mit der eingegeben Zahl verglichen. Wenn sie nicht übereinstimmen wird angegeben ob sie zu klein oder zu gross ist. Wenn alle Versuche gebraucht wurden hat man verloren.
+![gif](https://user-images.githubusercontent.com/110892623/189853799-638fb9f9-c95e-4c3e-98d9-da6069222e69.gif)
+
 
 
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Program lässt den Spieler jedes Mal maximal 5 Mal raten. Die Zahlen werden immer verglichen und wenn sie übereinstimmen oder auch nicht wird immer der richtige Vorgang ausgeführt.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Ich konnte immer, wenn ich daran gearbeitet habe konzentriert arbeiten und habe fast immer eine Lösung zu meinen Problemen gefunden.
 
-👎 und etwas, was nicht gut lief.
+👎 Ich konnte nicht selber herausfinden wie ich es verhinder kann, dass das Program bei einer Buchstaben eingabe abstürzt und war deshalb eine ganze Stunde daran am verzweifeln
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich kann das nächste mal Mitschüler fragen wie sie das Problem gelöst haben oder wie sie es lösen würden.
