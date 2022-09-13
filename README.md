@@ -14,7 +14,7 @@ Ich habe gelernt if/while Schleifen zu programmieren, um Vorgänge, so viel Mal 
 
 Die while Schleife wird am Anfang immer definiert, mit einem Wert der sich erst ändert, sobald die while Schleife beendet werden soll. Damit kann man Vorgänge so oft wiederholen bis sie nicht mehr benötigt werden.
 
-![grafik](https://user-images.githubusercontent.com/110892623/189842226-cc7994b4-7496-46ad-b816-722f9cc39acf.png)
+![grafik](https://user-images.githubusercontent.com/110892623/189845901-d67b7de2-2b53-49cb-9975-f843de7d8680.png)
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
