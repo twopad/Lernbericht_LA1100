@@ -1,18 +1,20 @@
 # Lernbericht_LA1100
 
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Julian Warnebold
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Projekt ging es darum ein Spiel zu programmieren welches eine zufällige Zahl zwischen 1-100 generiert, die der Spieler den erraten kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt if/while Schleifen zu programmieren, um Vorgänge, so viel Mal wie ich möchte, wiederholen zu lassen.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Die while Schleife wird am Anfang immer definiert, mit einem Wert der sich erst ändert, sobald die while Schleife beendet werden soll. Damit kann man Vorgänge so oft wiederholen bis sie nicht mehr benötigt werden.
+
+![grafik](https://user-images.githubusercontent.com/110892623/189842226-cc7994b4-7496-46ad-b816-722f9cc39acf.png)
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
